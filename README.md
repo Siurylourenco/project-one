@@ -1,6 +1,6 @@
 # 🚀 API Product Dashboard
 
-![Preview do Projeto](./painel-de-produto-react-ts/assets/projeto.png)
+![Preview do Projeto](./product-dashboard-react-ts/src/assets)
 
 
 Um dashboard de produtos moderno e responsivo desenvolvido para praticar consumo de APIs, gerenciamento de estado e estilização avançada com Tailwind CSS.
