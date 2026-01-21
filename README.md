@@ -1,5 +1,7 @@
 # 🚀 API Product Dashboard
 
+![Preview do Projeto](./assets/projeto.png)
+
 Um dashboard de produtos moderno e responsivo desenvolvido para praticar consumo de APIs, gerenciamento de estado e estilização avançada com Tailwind CSS.
 
 ## 🎯 Objetivo do Projeto
@@ -23,19 +25,24 @@ Este projeto foi criado com foco em performance e interface do usuário (UI/UX),
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/siurylourenco/project-one.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
 
 2.Instale as dependências:
+
 npm install
 
 3.Inicie o servidor de desenvolvimento:
+
 npm run dev
 
 📂 Estrutura de Pastas
 src/
 ├── components/   # Componentes visuais (Card, List)
+
 ├── services/     # Configuração da API (Fetch/Axios)
+
 ├── types/        # Definições de interfaces TypeScript
+
 └── App.tsx       # Componente principal e lógica de estado
 
 Desenvolvido por Siury Lourenço 🚀
